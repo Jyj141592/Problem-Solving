@@ -1,5 +1,10 @@
 # Problem-Solving
-## 알고리즘들 참고 링크
+## 참고 링크
+
+### 자료구조
+
+[Trie](https://velog.io/@klloo/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%8A%B8%EB%9D%BC%EC%9D%B4Trie-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
+
 ### 그래프
 [위상정렬](https://m.blog.naver.com/ndb796/221236874984)
 
