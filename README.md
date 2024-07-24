@@ -13,3 +13,10 @@
 [컨벡스 헐](https://kbw1101.tistory.com/50)
 
 [Union-Find](https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html)
+
+### 구간 쿼리
+[mo's](https://justicehui.github.io/hard-algorithm/2019/06/17/MoAlgorithm/)
+
+### 수학
+
+[고속푸리에변환(FFT)](https://invrtd-h.tistory.com/70)
