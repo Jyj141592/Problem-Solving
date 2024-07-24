@@ -17,6 +17,8 @@
 ### 구간 쿼리
 [mo's](https://justicehui.github.io/hard-algorithm/2019/06/17/MoAlgorithm/)
 
+[라인 스위핑](https://blogshine.tistory.com/120)
+
 ### 수학
 
 [고속푸리에변환(FFT)](https://invrtd-h.tistory.com/70)
