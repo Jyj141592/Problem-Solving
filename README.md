@@ -23,6 +23,10 @@
 
 [라인 스위핑](https://blogshine.tistory.com/120)
 
+### 문자열
+
+[manacher(회문 구하기)](https://ialy1595.github.io/post/manacher/)
+
 ### 수학
 
 [고속푸리에변환(FFT)](https://invrtd-h.tistory.com/70)
